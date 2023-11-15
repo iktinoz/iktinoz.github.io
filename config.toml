@@ -13,3 +13,9 @@ hostname = "github.io"
 key = 0
 name = "github"
 url = "https://github.com/iktinoz"
+
+
+[[params.social]]
+key = 1
+name = "last.fm"
+url = "https://www.last.fm/de/user/dernex"
