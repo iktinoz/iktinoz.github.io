@@ -1,3 +1,15 @@
-baseURL = "http://example.org/"
+baseURL = "https://iktinoz.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Iktinoz"
+theme = 'nightfall'
+  
+
+[params]
+author = "iktinoz"
+user = "iktinoz"
+hostname = "github.io"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/iktinoz"
